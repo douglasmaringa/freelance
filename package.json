@@ -4,7 +4,7 @@
   "private": true,
 
 
-  "homepage": "https://startuphelp.app/",
+  "homepage": "startuphelp.app",
   "dependencies": {
     "firebase": "^7.24.0",
     "gh-pages": "^2.1.1",
