@@ -21,9 +21,9 @@
     "static/media/App.scss": "./static/media/shape2.4164b7fa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cc61471.js",
-    "static/js/2.7b09c6c8.chunk.js",
-    "static/css/main.1013169e.chunk.css",
-    "static/js/main.007af698.chunk.js"
+    "./static/js/runtime-main.9cc61471.js",
+    "./static/js/2.7b09c6c8.chunk.js",
+    "./static/css/main.1013169e.chunk.css",
+    "./static/js/main.007af698.chunk.js"
   ]
 }
